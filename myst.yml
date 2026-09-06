@@ -11,6 +11,7 @@ project:
     - name: Guillaume St-Onge
       affiliation: University of Ottawa
   github: https://github.com/gstonge/csi4124-sys5110
+  edit_url: null
   # Notebooks are committed with their outputs already in them, so the build
   # never executes anything. Re-run a notebook locally before committing it.
   toc:
