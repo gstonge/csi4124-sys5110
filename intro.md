@@ -16,7 +16,7 @@ personal Gmail rather than your uOttawa address — either works.
 
 ## 2. JupyterLite — no account needed
 
-If you'd rather not sign in to anything, [open the notebooks in JupyterLite](https://gstonge.github.io/csi4124-sys5110/lite/lab/index.html).
+If you'd rather not sign in to anything, [open the notebooks in JupyterLite](https://www.gstonge.ca/csi4124-sys5110/lite/lab/index.html).
 Python runs **inside your browser tab** — there is no server to log into and nothing
 to go down.
 
