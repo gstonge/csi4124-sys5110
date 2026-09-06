@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Jupyter Book / JupyterLite build output
+_build/
+.jupyterlite.doit.db

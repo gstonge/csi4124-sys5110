@@ -1,0 +1,25 @@
+# Jupyter Book 2 (mystmd) configuration.
+# Build:   jupyter book build --html      Preview: jupyter book start
+version: 1
+project:
+  id: csi4124-sys5110
+  title: Foundation of Modelling and Simulation
+  short_title: CSI 4124 / SYS 5110
+  description: >-
+    Hands-on Jupyter notebooks for CSI 4124 / SYS 5110, University of Ottawa.
+  authors:
+    - name: Guillaume St-Onge
+      affiliation: University of Ottawa
+  github: https://github.com/gstonge/csi4124-sys5110
+  # Notebooks are committed with their outputs already in them, so the build
+  # never executes anything. Re-run a notebook locally before committing it.
+  toc:
+    - file: intro.md
+    - title: Notebooks
+      children:
+        - file: notebooks/00-demo/hello-simulation.ipynb
+site:
+  template: book-theme
+  options:
+    logo_text: CSI 4124 / SYS 5110
+    folders: true
