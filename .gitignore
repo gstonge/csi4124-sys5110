@@ -220,3 +220,7 @@ __marimo__/
 # Jupyter Book / JupyterLite build output
 _build/
 .jupyterlite.doit.db
+
+# written by the savefig demo in the tutorial notebook
+my-figure.png
+exercise.png

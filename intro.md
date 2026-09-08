@@ -1,6 +1,8 @@
-# Foundation of Modelling and Simulation
+# Getting started
 
 Hands-on notebooks for **CSI 4124 / SYS 5110** at the University of Ottawa.
+
+**Instructor:** Guillaume St-Onge — [www.gstonge.ca](https://www.gstonge.ca)
 
 Every activity on this site is a Jupyter notebook. There are three ways to run one,
 and which you should use depends on what you're doing.

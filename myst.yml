@@ -7,20 +7,18 @@ project:
   short_title: CSI 4124 / SYS 5110
   description: >-
     Hands-on Jupyter notebooks for CSI 4124 / SYS 5110, University of Ottawa.
-  authors:
-    - name: Guillaume St-Onge
-      affiliation: University of Ottawa
   github: https://github.com/gstonge/csi4124-sys5110
   edit_url: null
   # Notebooks are committed with their outputs already in them, so the build
   # never executes anything. Re-run a notebook locally before committing it.
   toc:
     - file: intro.md
-    - title: Notebooks
-      children:
-        - file: notebooks/00-demo/hello-simulation.ipynb
+    - file: notebooks/numpy-matplotlib.ipynb
+      title: "Week 1: NumPy and Matplotlib"
 site:
   template: book-theme
   options:
     logo_text: CSI 4124 / SYS 5110
     folders: true
+    style: ./static/custom.css
+    outline_maxdepth: 2

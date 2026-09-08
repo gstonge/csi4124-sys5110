@@ -1,0 +1,9 @@
+/* Hide the top bar (home link, search, theme toggle) on wide screens, where the
+   left sidebar is permanently visible and the bar is redundant.
+   Below 1280px the theme collapses that sidebar behind the menu button living
+   in this bar, so it has to stay — that breakpoint is the theme's own (xl). */
+@media (min-width: 1280px) {
+  div:has(> nav.myst-top-nav-bar) {
+    display: none;
+  }
+}
