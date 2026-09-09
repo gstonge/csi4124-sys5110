@@ -4,8 +4,10 @@ Hands-on notebooks for **CSI 4124 / SYS 5110** at the University of Ottawa.
 
 **Instructor:** Guillaume St-Onge — [www.gstonge.ca](https://www.gstonge.ca)
 
-Every activity on this site is a Jupyter notebook. There are three ways to run one.
+Every activity on this site is a Jupyter notebook. If you are completely new to Jupyter notebooks,
+first have a look at this tutorial: [Jupyter Notebook 101](https://www.kaggle.com/code/jhoward/jupyter-notebook-101).
 
+There are three ways to run the Jupyter notebooks from this platform.
 
 ## 1. Google Colab
 
