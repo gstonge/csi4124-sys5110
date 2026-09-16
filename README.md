@@ -4,10 +4,8 @@ Hands-on Jupyter notebooks for the course, at the University of Ottawa.
 
 **Start here: https://www.gstonge.ca/csi4124-sys5110/**
 
-The site renders every notebook with its results already filled in, so you can read
-through an activity without running anything, and it explains the three ways to run
-one yourself: Google Colab, in-browser JupyterLite (no account needed), or a local
-Python install.
+The site explains the three ways to run a notebook yourself: Google Colab, in-browser
+JupyterLite (no account needed), or a local Python install.
 
 ## Contents
 

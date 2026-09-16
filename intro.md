@@ -39,8 +39,3 @@ Three things to know:
 Getting Python running on your own machine is part of what this course expects you to be able to do. Do it in week 1, not the night before something is due. You can download each notebook individually or clone the GitHub repository.
 
 It is recommended to use a virtual Python environment to avoid creating issues with your system's Python.
-
----
-
-*Notebooks on this site are shown with their outputs already filled in, so you can
-read a page without running anything.*
