@@ -224,3 +224,7 @@ _build/
 # written by the savefig demo in the tutorial notebook
 my-figure.png
 exercise.png
+
+# Instructor solution notebooks, and the script that derives the tracked notebooks
+# under notebooks/ from them. None of it leaves this machine.
+solutions/

@@ -15,6 +15,8 @@ project:
     - file: intro.md
     - file: notebooks/numpy-matplotlib.ipynb
       title: "Week 1: NumPy and Matplotlib"
+    - file: notebooks/euler-method.ipynb
+      title: "Week 2: Euler's method"
 site:
   template: book-theme
   options:
