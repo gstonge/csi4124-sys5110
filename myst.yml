@@ -17,6 +17,8 @@ project:
       title: "Week 1: NumPy and Matplotlib"
     - file: notebooks/euler-method.ipynb
       title: "Week 2: Euler's method"
+    - file: notebooks/predator-prey.ipynb
+      title: "Week 3-4: Predator & prey"
 site:
   template: book-theme
   options:

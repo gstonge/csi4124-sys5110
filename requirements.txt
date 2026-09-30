@@ -8,5 +8,7 @@ jupyterlite-pyodide-kernel>=0.8,<0.9
 # Not needed by CI (the build does not execute anything) and not needed by
 # JupyterLite (Pyodide ships its own numpy/matplotlib).
 numpy
+scipy
 matplotlib
+ipywidgets
 nbconvert
