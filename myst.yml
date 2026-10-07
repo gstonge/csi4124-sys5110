@@ -19,6 +19,8 @@ project:
       title: "Week 2: Euler's method"
     - file: notebooks/predator-prey.ipynb
       title: "Week 3-4: Predator & prey"
+    - file: notebooks/stochastic-simulation.ipynb
+      title: "Week 4-5: Stochastic simulations"
 site:
   template: book-theme
   options:
