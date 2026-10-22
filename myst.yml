@@ -21,6 +21,8 @@ project:
       title: "Week 3-4: Predator & prey"
     - file: notebooks/stochastic-simulation.ipynb
       title: "Week 4-5: Stochastic simulations"
+    - file: notebooks/queuing-system.ipynb
+      title: "Week 6-7: Queuing systems"
 site:
   template: book-theme
   options:
