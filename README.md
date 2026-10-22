@@ -9,4 +9,4 @@ JupyterLite (no account needed), or a local Python install.
 
 ## Contents
 
-- `notebooks/` — one folder per topic, in the order they come up in the course.
+- `notebooks/` — one notebook per topic; the site lists them in the order they come up in the course.
